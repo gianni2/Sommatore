@@ -22,6 +22,11 @@
 			
 			return x+100;
 		}
+		public static int somma200(int x)
+		{
+			
+			return x+200;
+		}
 		
 		public static int somma1000(int x)
 		{
@@ -35,6 +40,7 @@
 			System.out.println(somma10(x));
 			System.out.println(somma20(x));
 			System.out.println(somma100(x));
+			System.out.println(somma200(x));
 			System.out.println(somma1000(x));
 		}
 	
