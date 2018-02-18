@@ -41,6 +41,7 @@
 		public static void main(String[] args) 
 		{
 			int x=1;
+			System.out.println("Buongiorno");
 			System.out.println(somma4(x));
 			System.out.println(somma10(x));
 			System.out.println(somma20(x));
